@@ -3,4 +3,4 @@
   publish = "API_Scrapping_YouTube_Comments"
 
 [dev]
-  command = "python youtube_scrap.py"
+  command = "python app.py"
